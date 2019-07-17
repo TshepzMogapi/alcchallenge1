@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">alc-challenge-1</string>
+    <string name="title_about">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="title_my_profile">My Profile</string>
+    <string name="name">Tshepiso Mogapi</string>
+    <string name="track">Android</string>
+    <string name="country">South Africa</string>
+    <string name="email">tshepzmogapi@gmail.com</string>
+    <string name="phone">+27 078 1891067</string>
+</resources>
